@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"Double Cheese Pizza",
+        "price":"Rs 170",
+        "image":"images/double-cheese-pizza.png"
+    },
+    {
+        "id":2,
+        "name":"Veggie Pizza",
+        "price":"Rs 90",
+        "image":"images/veggie-pizza.png"
+    },
+    {
+        "id":3,
+        "name":"Margherita Pizza",
+        "price":"Rs 120",
+        "image":"images/margherita-pizza.png"
+    },
+    {
+        "id":4,
+        "name":"Pepperoni Pizza",
+        "price":"Rs 130",
+        "image":"images/pepperoni-pizza.png"
+    },
+    {
+        "id":5,
+        "name":"BBQ Chicken Pizza",
+        "price":"Rs 220",
+        "image":"images/bbq-chicken-pizza.png"
+    },
+    {
+        "id":6,
+        "name":"Peppy Paneer Pizza",
+        "price":"Rs 250",
+        "image":"images/peppy-paneer-pizza.png"
+    },
+    {
+        "id":7,
+        "name":"Cheese & Corn Pizza",
+        "price":"Rs 190",
+        "image":"images/cheese-and-corn-pizza.png"
+    },
+    {
+        "id":8,
+        "name":"Farmhouse Pizza",
+        "price":"RS 299",
+        "image":"images/farmhouse-pizza.png"
+    }
+]
